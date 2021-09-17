@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Overhead the albatross
 Hangs motionless upon the air
 And deep beneath the rolling waves
@@ -59,4 +60,5 @@ And call to you across the sky
 И никто не поет мне колыбельных,
 И никто не заставляет закрывать глаза,
 Поэтому я распахиваю окна
-И зову тебя через все небо
+И зову тебя через все небо.
+
